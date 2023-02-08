@@ -9,7 +9,8 @@ We have produced a Python Flask webapp providing novel visualizations to wildfir
 
 We thought that while the CWFIS map was interesting, we wanted to be able to show data and wildfire patterns without requiring GIS knowledge, so this is what we made!
 
-
+## Live Demo
+https://fireviz.corunsol.net/
 
 
 ## Table of Contents
